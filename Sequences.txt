@@ -1,0 +1,10 @@
+>Sequence-1|
+A-TTGCCATT--
+>Sequence-2|
+A-TGGCCATT--
+>Sequence-3|
+A-TC-CAATTTT
+>Sequence-4|
+A-TCTTC–TT--
+>Sequence-5|
+ACTGACC-----
